@@ -1,0 +1,22 @@
+{
+  "name"        : "koa-device",
+  "version"     : "0.0.0",
+  "description" : "A koa.js wrapper for express-device",
+
+  "repository" : {
+    "type" : "git",
+    "url"  : "git://github.com/TrovaModa/koa-device.git"
+  },
+  "keywords" : [
+    "koa",
+    "device",
+    "express"
+  ],
+
+  "author"  : "yawnt <me@yawnt.com>",
+  "license" : "MIT",
+  "bugs"    : {
+    "url" : "https://github.com/TrovaModa/koa-device/issues"
+  },
+  "homepage" : "https://github.com/TrovaModa/koa-device"
+}
