@@ -6,7 +6,7 @@
     "type": "git",
     "url": "git://github.com/TrovaModa/koa-device.git"
   },
-  "dependencie": {
+  "dependencies": {
     "express-device": "*"
   },
   "keywords": [
